@@ -26,6 +26,7 @@
 | [0242-valid-anagram](https://github.com/NitinNegi1710/leetcoede_prob/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/NitinNegi1710/leetcoede_prob/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/NitinNegi1710/leetcoede_prob/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NitinNegi1710/leetcoede_prob/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NitinNegi1710/leetcoede_prob/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NitinNegi1710/leetcoede_prob/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
